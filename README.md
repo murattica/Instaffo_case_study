@@ -6,7 +6,7 @@ This repository showcases my approach to solving the marketing analytics case st
 ---
 
 ### **Task 1: KPI Design**
-I have provided a detailed report in [this](https://docs.google.com/document/d/1uTq3ZCMz8J9qYmHe4q-8mbPYSoegK_f-pngz7P2rPfo/edit?usp=sharing) repository that explains the rationale behind the selected KPIs: **Activation Rate**, **ROAS (Return on Ad Spend)**, and **Cost Per Hire (CPH)**. These KPIs were designed to strike a balance between short-term actionability and long-term strategic insights for optimizing marketing performance. The report also explains how each KPI supports specific marketing decisions and how they were calculated.
+I have provided a detailed report in [this](https://docs.google.com/document/d/1uTq3ZCMz8J9qYmHe4q-8mbPYSoegK_f-pngz7P2rPfo/edit?usp=sharing) document that explains the rationale behind the selected KPIs: **Activation Rate**, **ROAS (Return on Ad Spend)**, and **Cost Per Hire (CPH)**. These KPIs were designed to strike a balance between short-term actionability and long-term strategic insights for optimizing marketing performance. The report also explains how each KPI supports specific marketing decisions and how they were calculated.
 
 ---
 
